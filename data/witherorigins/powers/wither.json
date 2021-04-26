@@ -8,7 +8,7 @@
         "duration": 60
       }
     },
-    "cooldown": 100,
+    "cooldown": 60,
     "hud_render": {
       "should_render": false,
       "bar_index": 5
