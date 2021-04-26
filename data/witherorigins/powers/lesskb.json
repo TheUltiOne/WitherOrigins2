@@ -1,0 +1,10 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "operation": "addition",
+        "attribute": "generic.attack_knockback",
+        "value": -3
+    },
+    "name": "Less Knockback",
+    "description": "Your weak bones make you deal less knockback."
+}

@@ -1,0 +1,8 @@
+{
+    "type": "origins:modify_player_spawn",
+    "dimension": "minecraft:the_nether",
+    "structure": "minecraft:fortress",
+    "spawn_strategy": "center",
+    "name": "Fortress Spawn",
+    "description": "You spawn in your home, the terrible nether fortress."
+}
