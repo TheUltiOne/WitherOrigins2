@@ -13,6 +13,6 @@
       "should_render": false,
       "bar_index": 5
     },
-     "name": "Wither Away",
+    "name": "Wither Away",
     "description": "On hit, your opponents start Withering away, they get Wither for 3 seconds."
 }
