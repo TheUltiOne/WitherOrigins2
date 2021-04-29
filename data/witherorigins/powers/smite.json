@@ -1,0 +1,6 @@
+{
+    "type": "origins:entity_group",
+    "group": "undead",
+    "name": "Part Undead",
+    "description": "You are part-undead. This means Smite deals more damage to you."
+}

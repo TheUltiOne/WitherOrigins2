@@ -5,11 +5,13 @@
         "witherorigins:hostility",
         "witherorigins:lesskb",
         "witherorigins:nowither",
-        "witherorigins:wither"
+        "witherorigins:wither",
+        "witherorigins:smite",
+        "witherorigins:sunlightnerf"
     ],
     "icon": "minecraft:wither_skeleton_skull",
     "order": 15,
-    "impact": 3,
+    "impact": 2,
     "name": "Witherian",
     "description": "Born in the Terrible Nether Fortress, this Origin has weak bones, but strong abilities. It has a bad unexplained history with the Piglins, but a good one with it's brothers, the blazes and the fellow Wither Skeletons."
 }

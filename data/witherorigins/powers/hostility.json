@@ -10,17 +10,32 @@
 			[
 				{
 					"type": "origins:execute_command",
-					"command": "team join soulskeletonorigin @e[type=minecraft:wither_skeleton]",
+					"command": "team join soulskeleton @e[type=minecraft:wither_skeleton]",
 					"permission_level": 4
 				},
 				{
 					"type": "origins:execute_command",
-					"command": "team join soulskeletonorigin @e[type=minecraft:blaze]",
+					"command": "team join soulskeleton @e[type=minecraft:blaze]",
+					"permission_level": 4
+				},
+				{
+					"type": "origins:execute_command",
+					"command": "team join soulskeleton @e[type=minecraft:wither]",
+					"permission_level": 4
+				},
+				{
+					"type": "origins:execute_command",
+					"command": "team join soulskeleton @s",
+					"permission_level": 4
+				},
+				{
+					"type": "origins:execute_command",
+					"command": "team add soulskeleton",
 					"permission_level": 4
 				}
 			]
 		},
-		"interval": 200
+		"interval": 600
 	},
 	"retaliate":
 	{
@@ -28,7 +43,7 @@
 		"entity_action":
 		{
 			"type": "origins:execute_command",
-			"command": "team empty soulskeletonorigin",
+			"command": "team empty soulskeleton",
 			"permission_level": 4
 		},
 		"cooldown": 3,
@@ -38,5 +53,5 @@
 		}
 	},
 	"name": "Born in the Fortress",
-	"description": "Thanks to your Wither Skeleton counterparts, Blazes and Wither Skeletons are not aggressive, unless if you attack them. However, Piglins are always aggressive towards you."
+	"description": "Thanks to your Wither Skeleton halfpart, Blazes and Wither Skeletons are not aggressive, unless if you attack them, neither are withers."
 }

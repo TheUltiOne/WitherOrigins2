@@ -1,0 +1,35 @@
+{
+    "type": "origins:multiple",
+    "swimming": {
+        "type": "origins:modify_swim_speed",
+        "modifier": {
+            "operation": "multiply_base",
+            "value": -0.5
+        },
+        "condition": {
+            "type": "origins:exposed_to_sun"
+        }
+    },
+    "exhausting": {
+        "type": "origins:modify_exhaustion",
+        "modifier": {
+            "operation": "multiply_total",
+            "value": 0.9
+        },
+        "condition": {
+            "type": "origins:exposed_to_sun"
+        }
+    },
+    "weakening": {
+        "type": "origins:modify_damage_taken",
+        "modifier": {
+            "operation": "multiply_total",
+            "value": 0.5
+        },
+        "condition": {
+            "type": "origins:exposed_to_sun"
+        }
+    },
+    "name": "Sunlight Hater",
+    "description": "Just like the Wither Skeletons, you avoid the sun. It makes you be hungry quicker, swim slower, deal less damage while also receiving more damage."
+}
