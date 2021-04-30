@@ -11,10 +11,13 @@ Find the description below!
 ```
 Born in the Terrible Nether Fortress, this Origin has weak bones, but strong abilities. It has a bad unexplained history with the Piglins, but a good one with it's brothers, the blazes and the fellow Wither Skeletons.
 
-+ Spawns in a Nether Fortress
 + Is not hostile with Wither Skeletons/Blazes (unless attacked)
 + Deals Wither effect (x2, 3 seconds, 1 second cooldown)
 + Cannot get Wither Effect
+~ Always spawns with a Stone Sword
+~ Spawns in the Nether Fortress
+~ Is undead, therefore potion effects are reversed and gets more damage from the Smite enchantment.
 - Deals less knockback due to weak bones
 - Gets more kinetic damage
+- More exhaustion in sunlight, slower swimming, and more damage received.
 ```

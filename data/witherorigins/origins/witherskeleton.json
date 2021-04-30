@@ -1,5 +1,6 @@
 {
     "powers": [
+        "witherorigins:callbackactions",
         "origins:more_kinetic_damage",
         "witherorigins:fortressspawn",
         "witherorigins:hostility",

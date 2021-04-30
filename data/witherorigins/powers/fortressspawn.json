@@ -3,6 +3,6 @@
     "dimension": "minecraft:the_nether",
     "structure": "minecraft:fortress",
     "spawn_strategy": "center",
-    "name": "Fortress Spawn",
+    "name": "Born in the Fortress",
     "description": "You spawn in your home, the terrible nether fortress."
 }

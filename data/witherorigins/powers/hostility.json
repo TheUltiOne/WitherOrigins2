@@ -20,17 +20,7 @@
 				},
 				{
 					"type": "origins:execute_command",
-					"command": "team join soulskeleton @e[type=minecraft:wither]",
-					"permission_level": 4
-				},
-				{
-					"type": "origins:execute_command",
 					"command": "team join soulskeleton @s",
-					"permission_level": 4
-				},
-				{
-					"type": "origins:execute_command",
-					"command": "team add soulskeleton",
 					"permission_level": 4
 				}
 			]
@@ -52,6 +42,6 @@
 			"should_render": false
 		}
 	},
-	"name": "Born in the Fortress",
-	"description": "Thanks to your Wither Skeleton halfpart, Blazes and Wither Skeletons are not aggressive, unless if you attack them, neither are withers."
+	"name": "Wither Skeleton Brothers",
+	"description": "Thanks to your Wither Skeleton halfpart, Blazes and Wither Skeletons are not aggressive, unless if you attack them."
 }
