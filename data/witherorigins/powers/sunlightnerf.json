@@ -27,7 +27,16 @@
             "value": 0.5
         },
         "condition": {
-            "type": "origins:exposed_to_sun"
+            "type": "origins:and",
+            "conditions": [
+                {
+                    "type": "origins:exposed_to_sun"
+                },
+                {
+                    "type": "origins:equipped_item",
+                    "equipment_slot": "head"
+                }
+            ]
         }
     },
     "name": "Sunlight Hater",
