@@ -1,5 +1,6 @@
-#ARCHIVED REPOSITORY
+# (README) ARCHIVED REPOSITORY
 Consider the newest version, [WitherOrigins3](https://github.com/TheUltiOne/WitherOrigins)
+**Thank you for using me!**
 
 
 # WitherOrigins2
