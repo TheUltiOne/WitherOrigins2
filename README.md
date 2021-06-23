@@ -1,7 +1,9 @@
 # (README) ARCHIVED REPOSITORY
 Consider the newest version, [WitherOrigins3](https://github.com/TheUltiOne/WitherOrigins)
-**Thank you for using me!**
 
+**Thank you for using this Origin!**
+
+I really appreciate it.
 
 # WitherOrigins2
 This is an origin for the Origins fabric mod!
