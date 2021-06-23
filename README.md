@@ -1,3 +1,7 @@
+#ARCHIVED REPOSITORY
+Consider the newest version, [WitherOrigins3](https://github.com/TheUltiOne/WitherOrigins)
+
+
 # WitherOrigins2
 This is an origin for the Origins fabric mod!
 It currently just adds 1 origin, but more will come soon.
